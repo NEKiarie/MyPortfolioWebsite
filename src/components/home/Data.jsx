@@ -16,6 +16,7 @@ const Data = () => {
         Say Hello 📥 
       </a>
     </div>
+    
   );
 };
 

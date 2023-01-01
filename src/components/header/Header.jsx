@@ -9,6 +9,7 @@ const Header = () => {
 
 
   return (
+    <>
     <header className = "header">
       <nav className='nav container'>
         <a href='index.html' className='nav__logo'>Elvis</a>
@@ -49,6 +50,7 @@ const Header = () => {
         </div>
       </nav>
     </header>
+    </>
   )
 }
 

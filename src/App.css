@@ -5,14 +5,16 @@
 :root {
   --header-height: 3rem;
 
+
   /*=============Colors=========*/
   --hue: 0;
   --sat: 0%;
   --title-color: #030303;
   --title-color-dark: #313bac;;
   --text-color: #030303;
-  --body-color:  #edf2f8;
-  --container-color: #fff;
+  --body-color:  #ffffff;
+  --container-color:  #edf2f8;
+  
 
    /*=============Font and Tapography=========*/
    --font-base: "DM Sans", sans-serif;
